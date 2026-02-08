@@ -41,7 +41,7 @@ Q-ARK is a browser extension designed to help developers and QA engineers genera
 
 ## Data Sharing and Third Parties
 
-**We do not share any data with third parties.** QA EYE operates entirely offline and does not communicate with external servers.
+**We do not share any data with third parties.** Q-ARK operates entirely offline and does not communicate with external servers.
 
 ## Permissions Explained
 
